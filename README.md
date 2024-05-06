@@ -4,7 +4,7 @@
 This Jupyter project demonstrates how to perform Factor Analysis using Python, particularly focusing on the factor_analyzer library. Factor Analysis is a statistical method used to identify underlying factors or latent variables that explain patterns of correlations within a dataset.
 
 ## Data
-The dataset used in this project is stored in the file FactorAnalysis.csv. It contains [describe your dataset briefly, e.g., information about the variables, number of observations, etc.].
+The dataset used in this project is stored in the file FactorAnalysis.csv. It contains The dataset pertains to academic students and evaluates their level of academic achievement, goodness, and popularity within the college community.
 
 ## Project Structure
 - FactorAnalysis.ipynb: Jupyter Notebook containing the code for performing Factor Analysis.
